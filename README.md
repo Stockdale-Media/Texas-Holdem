@@ -1,0 +1,3 @@
+# Texas Holdem (Poker) Style Game Written In Python
+
+## This Is A Texas Holdem/Poker Style Game That Was Developed Using Python. This Project Demonstrates My Knowledge Of Using Different Modules Such as Tkinter, The Random Module, The Itertools Module, The Queue Module, The Threading Module, The Time Module And Using Collections From The Counter Module. This Project Also Demonstrates My Knowledge On GUI Development, Such As Creating And Desining Widgets, Creating Programable Widgets And Adding Different Funcionality To Each Widget, And Finally Programming Certain Game Mechanics For A Turn By Turn Based Game.
